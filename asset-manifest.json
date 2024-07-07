@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/poly_molly/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/poly_molly/static/js/main.d04f410c.chunk.js",
+    "main.js.map": "/poly_molly/static/js/main.d04f410c.chunk.js.map",
+    "runtime~main.js": "/poly_molly/static/js/runtime~main.709cfa7e.js",
+    "runtime~main.js.map": "/poly_molly/static/js/runtime~main.709cfa7e.js.map",
+    "static/js/2.f7ebaa9b.chunk.js": "/poly_molly/static/js/2.f7ebaa9b.chunk.js",
+    "static/js/2.f7ebaa9b.chunk.js.map": "/poly_molly/static/js/2.f7ebaa9b.chunk.js.map",
+    "index.html": "/poly_molly/index.html",
+    "precache-manifest.153981f77e82659605cf2c3c5ebd8c1b.js": "/poly_molly/precache-manifest.153981f77e82659605cf2c3c5ebd8c1b.js",
+    "service-worker.js": "/poly_molly/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/poly_molly/static/css/main.5ecd60fb.chunk.css.map"
+  }
+}
